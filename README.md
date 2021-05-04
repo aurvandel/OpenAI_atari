@@ -15,11 +15,11 @@ Sample runs using a larger and a smaller CNN, each with a 1 million move replay 
 
 #### Training
 
-![Large CNN 2k buffer train](https://github.com/aurvandel/OpenAI_atari/blob/30137c48fa046a5bb2f47b46c9beb0a9455e0d23/atari/output/largerNN_2k_buffer/run20200416-071839_Pitfall-v4/training_info.png)
+![Large CNN 2k buffer train](https://github.com/aurvandel/OpenAI_atari/blob/bd9acb4c4899c6fec3ae03a3b8379e5d9b9e3cbf/atari/output/largerNN_2k_buffer/run20200416-071839_Pitfall-v4/training_info.png)
 
 #### Evaluation
 
-![Large CNN 2k buffer eval](https://github.com/aurvandel/OpenAI_atari/blob/30137c48fa046a5bb2f47b46c9beb0a9455e0d23/atari/output/largerNN_2k_buffer/run20200416-071839_Pitfall-v4/evaluation.png)
+![Large CNN 2k buffer eval](https://github.com/aurvandel/OpenAI_atari/blob/bd9acb4c4899c6fec3ae03a3b8379e5d9b9e3cbf/atari/output/largerNN_2k_buffer/run20200416-071839_Pitfall-v4/evaluation.png)
 
 | avg_score           | avg_Q              | 
 |---------------------|--------------------| 
@@ -32,11 +32,11 @@ Sample runs using a larger and a smaller CNN, each with a 1 million move replay 
 
 #### Training
 
-![Small CNN 1 mil buffer train](https://github.com/aurvandel/OpenAI_atari/blob/30137c48fa046a5bb2f47b46c9beb0a9455e0d23/atari/output/smallerNN/run20200411-053816_Pitfall-v4/training_info.png)
+![Small CNN 1 mil buffer train](https://github.com/aurvandel/OpenAI_atari/blob/bd9acb4c4899c6fec3ae03a3b8379e5d9b9e3cbf/atari/output/smallerNN/run20200411-053816_Pitfall-v4/training_info.png)
 
 #### Evaluation
 
-![Small CNN 1 mil buffer eval](https://github.com/aurvandel/OpenAI_atari/blob/30137c48fa046a5bb2f47b46c9beb0a9455e0d23/atari/output/smallerNN/run20200411-053816_Pitfall-v4/evaluation.png)
+![Small CNN 1 mil buffer eval](https://github.com/aurvandel/OpenAI_atari/blob/bd9acb4c4899c6fec3ae03a3b8379e5d9b9e3cbf/atari/output/smallerNN/run20200411-053816_Pitfall-v4/evaluation.png)
 
 | avg_score          | avg_Q              | 
 |--------------------|--------------------| 
